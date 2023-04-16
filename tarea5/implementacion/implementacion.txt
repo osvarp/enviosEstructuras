@@ -1,0 +1,3 @@
+Se uso la implementacion de lista enlazada simple.
+
+Se le añadio al TAD la operacion 'display' para poder imprimir facilmente la lista.
